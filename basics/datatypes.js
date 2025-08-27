@@ -12,3 +12,7 @@ console.log(typeof(b));
 let st=null
 console.log(typeof(st));
 //null datatypes is ---> object
+
+let value
+console.log(typeof(value));
+
