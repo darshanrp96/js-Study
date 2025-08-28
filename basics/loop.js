@@ -26,3 +26,13 @@ while(d>0)
         console.log("value is "+d);
         d--;
     }
+
+// do while loop
+
+let t = 1;
+
+do
+{
+console.log(t);
+t++;
+}while(t<=10);
