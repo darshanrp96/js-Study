@@ -36,3 +36,10 @@ do
 console.log(t);
 t++;
 }while(t<=10);
+
+// for loop
+
+for(let f=1; f<=10 ; f++)
+    {
+        console.log("value in for loop is "+f);        
+    }
