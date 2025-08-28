@@ -67,9 +67,9 @@ else{
     
 }
 
-//swtich case :
+//swtich case : int
 
-let d=1;
+let d=13;
 
 switch(d)
 {
@@ -81,4 +81,19 @@ switch(d)
     case 6: console.log("saturday"); break;
     case 7: console.log("sunday"); break;
     default: console.log("INVALID"); 
+}
+
+//switch case string:
+ 
+let= travel= "MP";
+
+switch(travel)
+{
+    case "MH" : console.log("PUNE"); break;
+    case "UP" : console.log("AGRA"); break;
+    case "MP" : console.log("UJJAIN"); break;
+    case "GJ" : console.log("SOMNATH"); break;
+    case "RJ" : console.log("JAIPUR"); break;   
+    default : console.log("INVALID");
+    
 }
